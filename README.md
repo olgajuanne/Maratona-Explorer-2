@@ -15,6 +15,6 @@ RocketLinks uma plataforma de social link.
 
 Esse projeto está sob a licença MIT.
 
+---
 
-
-*A NLW é um evento de conteúdos gratuitos voltados para programação, promovido pela **@Rocketseat**.*
+> *A NLW é um evento de conteúdos gratuitos voltados para programação, promovido pela **@Rocketseat**.*
