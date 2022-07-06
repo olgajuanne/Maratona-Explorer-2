@@ -15,24 +15,46 @@ a {
   --ghost-white: #EDF2FF;
 }
 
- body.dark {
-  --ghost-white: #00082f;
-  --oxford-blue: white;
-} 
-
-
 body {
   background-color: var(--ghost-white);
   color: var(--oxford-blue);
   font-family: 'Roboto', sans-serif;
 }
 
+body.dark {
+  --ghost-white: #00082f;
+  --oxford-blue: white;
+}  
+
 .container {
-  /* border: 0.2rem lightblue solid; */
   text-align: center;
   width: 18.75rem;
   margin: 3.75rem auto;
 }
+
+label { /* botão dark theme */
+  background: var(--oxford-blue);
+  border: none;
+  border-radius: 0.375rem;
+  display: flex;
+  position: relative;
+  left: 1.5rem;
+  cursor: pointer;
+
+  height: 3rem;
+  width: 3rem;
+  align-items: center;  
+  justify-content: center;
+}
+
+input { /* deixa o checkbox insivel */
+  visibility: hidden;
+}
+
+body.dark label path[fill*='#EDF2FF'] { /* muda a cor do svg */
+  fill: var(--ultramarine-blue);
+  background: var(--oxford-blue);
+}  
 
 img{
   width: 100%;
@@ -49,7 +71,6 @@ img.avatar {
 img.avatar:hover {
   border: var(--cerulean-blue) solid 0.25rem;
 }
-
 
 h1 {
   font-size:32px;
@@ -93,7 +114,6 @@ ul li a img {
   padding: 0.5rem;
 }
 
-
 ul li a:hover {
   background: var(--cerulean-blue);
 }
@@ -112,4 +132,3 @@ footer:hover {
 footer a {
   color: var(--oxford-blue);
 }
-
