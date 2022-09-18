@@ -26,10 +26,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<<<<<<< HEAD
 > *A NLW é um evento de conteúdos gratuitos voltados para programação, promovido pela **@Rocketseat**.*
-=======
-
-> *Maratona Explorer é um evento de conteúdos gratuitos voltados para programação, promovido pela **@Rocketseat**.*
->>>>>>> 0c1f1f6780f559b31cc00f0947ffdeb3da31240f
 
