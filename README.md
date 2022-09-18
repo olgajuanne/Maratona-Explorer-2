@@ -1,6 +1,6 @@
 # Maratona-Explorer-2
 
-Evento gratuito realizado pela @Rocketseat dos dias 03 a 06 de julho.
+Evento gratuito realizado pela **@Rocketseat** dos dias 03 a 06 de julho.
 ![preview](./.github/light.png)
 ![preview](./.github/dark.png)
 ## 🚀 Tecnologias
@@ -14,7 +14,7 @@ Evento gratuito realizado pela @Rocketseat dos dias 03 a 06 de julho.
 ## 💻 Projeto
 
 RocketLinks uma plataforma de social link. <br>
-[🔗 Clique aqui para acessar](https://olgajuanne.github.io/NLW-eSports/)
+[🔗 Clique aqui para acessar](https://olgajuanne.github.io/Maratona-Explorer-2/)
 ### 🎚 Modificações
 
 - Botão para mudar para modo dark com javascript.
@@ -22,7 +22,7 @@ RocketLinks uma plataforma de social link. <br>
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT license.
 
 ---
 
