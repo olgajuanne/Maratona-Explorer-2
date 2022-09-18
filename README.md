@@ -1,16 +1,20 @@
 # Maratona-Explorer-2
 
 Evento gratuito realizado pela @Rocketseat dos dias 03 a 06 de julho.
-
+![preview](./.github/light.png)
+![preview](./.github/dark.png)
 ## 🚀 Tecnologias
 
 - HTML
 - CSS
+- Javascript
+- <a href="https://code.visualstudio.com/"> Visual Studio Code </a>
+- <a href="https://www.figma.com/"> Figma </a>
 
 ## 💻 Projeto
 
-RocketLinks uma plataforma de social link. 
-
+RocketLinks uma plataforma de social link. <br>
+[🔗 Clique aqui para acessar](https://olgajuanne.github.io/NLW-eSports/)
 ### 🎚 Modificações
 
 - Botão para mudar para modo dark com javascript.
@@ -22,8 +26,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<<<<<<< HEAD
 > *A NLW é um evento de conteúdos gratuitos voltados para programação, promovido pela **@Rocketseat**.*
-=======
-> *A NLW é um evento de conteúdos gratuitos voltados para programação, promovido pela **@Rocketseat**.*
->>>>>>> 2c19223971c78b6991ae8c58eff0c068a15c03be
+
